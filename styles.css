@@ -21,9 +21,6 @@ h1 {
     transition: 0.3s;
     border-radius: 5px;
     width: 25%;
-    content: "";
-    clear: both;
-    display: table;
 }
 
 .card:hover {
