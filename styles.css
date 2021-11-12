@@ -23,7 +23,7 @@ h1 {
     width: 25%;
 }
 
-.card > img {
+.card img {
     height: 50px;
     align-items: center;
 }
