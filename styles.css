@@ -10,6 +10,11 @@ h1 {
     text-align: center;
 }
 
+.Subjects-Box {
+    div {
+        column-count: 4;
+      }
+}
 .Subjects{ 
     background-color: blue;
     color: white;
