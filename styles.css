@@ -23,6 +23,11 @@ h1 {
     width: 25%;
 }
 
+.card > img {
+    height: 50px;
+    align-items: center;
+}
+
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
